@@ -1,0 +1,140 @@
+2025-10-20 09:24:24,375 - __main__ - INFO - Model output directory: C:\Users\nathc\OneDrive\Desktop\mini project\models
+2025-10-20 09:24:24,375 - __main__ - INFO - 
+============================================================
+2025-10-20 09:24:24,376 - __main__ - INFO - SIGN LANGUAGE MODEL TRAINING
+2025-10-20 09:24:24,376 - __main__ - INFO - ============================================================
+
+2025-10-20 09:24:24,379 - __main__ - INFO - Configuration saved to models\model_20251020_092424_config.json
+2025-10-20 09:24:24,380 - __main__ - INFO - ============================================================
+2025-10-20 09:24:24,380 - __main__ - INFO - Loading dataset...
+2025-10-20 09:24:24,381 - __main__ - INFO - ============================================================
+2025-10-20 09:24:24,383 - __main__ - INFO - Processing action 'hello': 16 files found
+2025-10-20 09:24:24,407 - __main__ - WARNING - Skipping 0.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,432 - __main__ - WARNING - Skipping 1.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,459 - __main__ - WARNING - Skipping 10.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,482 - __main__ - WARNING - Skipping 11.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,504 - __main__ - WARNING - Skipping 12.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,523 - __main__ - WARNING - Skipping 13.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,555 - __main__ - WARNING - Skipping 14.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,579 - __main__ - WARNING - Skipping 15.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,600 - __main__ - WARNING - Skipping 2.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,621 - __main__ - WARNING - Skipping 3.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,646 - __main__ - WARNING - Skipping 4.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,684 - __main__ - WARNING - Skipping 5.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,712 - __main__ - WARNING - Skipping 6.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,732 - __main__ - WARNING - Skipping 7.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,752 - __main__ - WARNING - Skipping 8.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,784 - __main__ - WARNING - Skipping 9.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,785 - __main__ - INFO - Processing action 'thanks': 16 files found
+2025-10-20 09:24:24,803 - __main__ - WARNING - Skipping 0.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,824 - __main__ - WARNING - Skipping 1.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,846 - __main__ - WARNING - Skipping 10.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,867 - __main__ - WARNING - Skipping 11.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,889 - __main__ - WARNING - Skipping 12.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,909 - __main__ - WARNING - Skipping 13.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,927 - __main__ - WARNING - Skipping 14.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,956 - __main__ - WARNING - Skipping 15.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:24,979 - __main__ - WARNING - Skipping 2.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,029 - __main__ - WARNING - Skipping 3.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,049 - __main__ - WARNING - Skipping 4.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,073 - __main__ - WARNING - Skipping 5.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,096 - __main__ - WARNING - Skipping 6.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,117 - __main__ - WARNING - Skipping 7.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,139 - __main__ - WARNING - Skipping 8.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,160 - __main__ - WARNING - Skipping 9.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,162 - __main__ - INFO - Processing action 'iloveyou': 16 files found
+2025-10-20 09:24:25,184 - __main__ - WARNING - Skipping 0.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,205 - __main__ - WARNING - Skipping 1.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,226 - __main__ - WARNING - Skipping 10.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,251 - __main__ - WARNING - Skipping 11.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,271 - __main__ - WARNING - Skipping 12.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,292 - __main__ - WARNING - Skipping 13.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,313 - __main__ - WARNING - Skipping 14.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,336 - __main__ - WARNING - Skipping 15.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,357 - __main__ - WARNING - Skipping 2.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,380 - __main__ - WARNING - Skipping 3.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,520 - __main__ - WARNING - Skipping 4.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,552 - __main__ - WARNING - Skipping 5.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,575 - __main__ - WARNING - Skipping 6.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,598 - __main__ - WARNING - Skipping 7.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,621 - __main__ - WARNING - Skipping 8.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,642 - __main__ - WARNING - Skipping 9.npy: shape (16, 1662) != expected (30, 1662)
+2025-10-20 09:24:25,642 - __main__ - ERROR - Training failed: No valid data files found in dataset
+Traceback (most recent call last):
+  File "C:\Users\nathc\OneDrive\Desktop\mini project\train_model.py", line 631, in train
+    X, y = loader.load()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nathc\OneDrive\Desktop\mini project\train_model.py", line 217, in load
+    raise ValueError("No valid data files found in dataset")
+ValueError: No valid data files found in dataset
+2025-10-20 09:24:25,644 - __main__ - ERROR - Training failed: No valid data files found in dataset
+2025-12-03 14:38:06,727 - __main__ - INFO - Model output directory: C:\Users\nathc\OneDrive\Desktop\mini project\models
+2025-12-03 14:38:06,728 - __main__ - INFO - 
+============================================================
+2025-12-03 14:38:06,728 - __main__ - INFO - SIGN LANGUAGE MODEL TRAINING
+2025-12-03 14:38:06,728 - __main__ - INFO - ============================================================
+
+2025-12-03 14:38:06,730 - __main__ - INFO - Configuration saved to models\model_20251203_143806_config.json
+2025-12-03 14:38:06,730 - __main__ - INFO - ============================================================
+2025-12-03 14:38:06,732 - __main__ - INFO - Loading dataset...
+2025-12-03 14:38:06,732 - __main__ - INFO - ============================================================
+2025-12-03 14:38:06,733 - __main__ - INFO - Processing action 'hello': 16 files found
+2025-12-03 14:38:07,112 - __main__ - WARNING - Skipping 0.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,125 - __main__ - WARNING - Skipping 1.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,138 - __main__ - WARNING - Skipping 10.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,158 - __main__ - WARNING - Skipping 11.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,179 - __main__ - WARNING - Skipping 12.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,197 - __main__ - WARNING - Skipping 13.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,216 - __main__ - WARNING - Skipping 14.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,234 - __main__ - WARNING - Skipping 15.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,274 - __main__ - WARNING - Skipping 2.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,314 - __main__ - WARNING - Skipping 3.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,327 - __main__ - WARNING - Skipping 4.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,347 - __main__ - WARNING - Skipping 5.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,364 - __main__ - WARNING - Skipping 6.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,382 - __main__ - WARNING - Skipping 7.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,405 - __main__ - WARNING - Skipping 8.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,427 - __main__ - WARNING - Skipping 9.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,428 - __main__ - INFO - Processing action 'thanks': 16 files found
+2025-12-03 14:38:07,445 - __main__ - WARNING - Skipping 0.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,465 - __main__ - WARNING - Skipping 1.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,506 - __main__ - WARNING - Skipping 10.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,523 - __main__ - WARNING - Skipping 11.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,542 - __main__ - WARNING - Skipping 12.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,562 - __main__ - WARNING - Skipping 13.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,580 - __main__ - WARNING - Skipping 14.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,603 - __main__ - WARNING - Skipping 15.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,622 - __main__ - WARNING - Skipping 2.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,640 - __main__ - WARNING - Skipping 3.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,657 - __main__ - WARNING - Skipping 4.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,702 - __main__ - WARNING - Skipping 5.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,718 - __main__ - WARNING - Skipping 6.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,740 - __main__ - WARNING - Skipping 7.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,816 - __main__ - WARNING - Skipping 8.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,829 - __main__ - WARNING - Skipping 9.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,830 - __main__ - INFO - Processing action 'iloveyou': 16 files found
+2025-12-03 14:38:07,847 - __main__ - WARNING - Skipping 0.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,868 - __main__ - WARNING - Skipping 1.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,891 - __main__ - WARNING - Skipping 10.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,932 - __main__ - WARNING - Skipping 11.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,950 - __main__ - WARNING - Skipping 12.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,970 - __main__ - WARNING - Skipping 13.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:07,988 - __main__ - WARNING - Skipping 14.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:08,006 - __main__ - WARNING - Skipping 15.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:08,036 - __main__ - WARNING - Skipping 2.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:08,051 - __main__ - WARNING - Skipping 3.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:08,070 - __main__ - WARNING - Skipping 4.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:08,087 - __main__ - WARNING - Skipping 5.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:08,107 - __main__ - WARNING - Skipping 6.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:08,126 - __main__ - WARNING - Skipping 7.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:08,145 - __main__ - WARNING - Skipping 8.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:08,162 - __main__ - WARNING - Skipping 9.npy: shape (16, 1662) != expected (30, 1662)
+2025-12-03 14:38:08,164 - __main__ - ERROR - Training failed: No valid data files found in dataset
+Traceback (most recent call last):
+  File "C:\Users\nathc\OneDrive\Desktop\mini project\train_model.py", line 631, in train
+    X, y = loader.load()
+           ^^^^^^^^^^^^^
+  File "C:\Users\nathc\OneDrive\Desktop\mini project\train_model.py", line 217, in load
+    raise ValueError("No valid data files found in dataset")
+ValueError: No valid data files found in dataset
+2025-12-03 14:38:08,166 - __main__ - ERROR - Training failed: No valid data files found in dataset
